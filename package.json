@@ -1,12 +1,19 @@
 {
-  "name": "i-np",
+  "name": "i-np-hello-world",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
+  "homepage":"https://github.com/jimmyMisa/i-np.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyMisa/i-np.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "hello"
+  ],
+  "author": "jimmysk5 <jimmy.samuel.andriamparany.pro@gmail.com>",
   "license": "ISC"
 }
